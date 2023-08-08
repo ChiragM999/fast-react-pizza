@@ -28,6 +28,3 @@ Check out the live version of "Fast React Pizza" [here](https://fast-react-pizza
 
 ## Contributing
 Contributions to this project are welcome! Feel free to open issues or submit pull requests for bug fixes, improvements, or additional features.
-
-## Note
-📚 This project is a part of the Ultimate React Course by Jonas Schmedtmann on Udemy.
